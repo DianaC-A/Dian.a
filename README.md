@@ -1,11 +1,11 @@
-<h1 align="center"><b>Diana's Personal Sandbox</b></h1>
+<h1 align="center"><b>Personal Sandbox</b></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%3E_src%2Fpersonal_labs%2Floading...;%3E_testing_new_paradigms;%3E_learning_typescript_%26_git;%3E_status%3A_active_learning&font=Fira%20Code&center=true&width=440&height=45&color=FF007F"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DianaC-A"><img alt="Lab Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DianaCamilaAyala.PersonalLab&left_color=1f2937&right_color=FF007F"></a>
+  <a href="https://github.com/DianaC-A"><img alt="Lab Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DianaC-A.PersonalLab&left_color=1f2937&right_color=FF007F"></a>
 </p>
 
 ---
@@ -17,34 +17,50 @@
 
 ---
 
-## 🏆 Achievements & Milestones
+## Achievements 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DianaC-A&theme=radical&no-bg=true&margin-w=15" alt="Trophies" width="100%"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DianaC-A&theme=radical&no-bg=true&margin-w=15" alt="Diana's Trophies" width="100%"></a>
 </p>
 
 ---
 
 ## 📂 University Labs & Code Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=tu-primer-repo-universitario&theme=radical&hide_border=true" width="48%">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=tu-segundo-repo-universitario&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=dian-portfolio&theme=radical&hide_border=true" width="48%">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=Academic-Task-Manager&theme=radical&hide_border=true" width="48%">
 </p>
-
-> _Note: The cards above dynamic-load metrics directly from university project archives._
 
 ---
 
-## Technical Stack
+## 🛠️ Technical Stack
 
-#### Core Languages
+#### Languages & Core
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-#### Frameworks & Automation
+#### Frameworks, Platforms & Libraries
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+#### Tools & IDEs
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### AI Assistants
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ---
 
@@ -67,5 +83,5 @@
 
 ### 🏙️ 3D Contribution Graph
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=DianaC-A&theme=radical" alt="Diana's 3D Contributions" width="100%">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=DianaC-A&theme=radical" alt="Contributions" width="100%">
 </p>
