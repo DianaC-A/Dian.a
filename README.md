@@ -19,7 +19,7 @@
 
 ## Achievements 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DianaC-A&theme=radical&no-bg=true&margin-w=15" alt="Diana's Trophies" width="100%"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DianaC-A&theme=radical&no-bg=true&margin-w=15" alt="Trophies" width="100%"></a>
 </p>
 
 ---
@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=dian-portfolio&theme=radical&hide_border=true" width="48%">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=Academic-Task-Manager&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=mini-api-usuarios&theme=radical&hide_border=true" width="48%">
 </p>
 
 ---
