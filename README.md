@@ -1,11 +1,11 @@
-<h1 align="center"><b>Personal Sandbox</b></h1>
+<h1 align="center"><b>Diana's Personal Sandbox</b></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%3E_src%2Fpersonal_labs%2Floading...;%3E_testing_new_paradigms;%3E_learning_typescript_%26_git;%3E_status%3A_active_learning&font=Fira%20Code&center=true&width=440&height=45&color=FF007F"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DianaC-A"><img alt="Lab Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DianaC-A.PersonalLab&left_color=1f2937&right_color=FF007F"></a>
+  <a href="https://github.com/DianaC-A"><img alt="Lab Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DianaCamilaAyala.PersonalLab&left_color=1f2937&right_color=FF007F"></a>
 </p>
 
 ---
@@ -14,7 +14,23 @@
 
 * **Scope:** This repository space functions as a private/personal sandbox for testing architecture, script automation, and continuous learning.
 * **Active Research:** Currently deep-diving into TypeScript compilation structures, advanced Git workflows, and local environments.
-* **Code Status:** Projects hosted here may contain experimental features, work-in-progress scripts, and unoptimized logic.
+
+---
+
+## 🏆 Achievements & Milestones
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DianaC-A&theme=radical&no-bg=true&margin-w=15" alt="Trophies" width="100%"></a>
+</p>
+
+---
+
+## 📂 University Labs & Code Repositories
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=tu-primer-repo-universitario&theme=radical&hide_border=true" width="48%">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=tu-segundo-repo-universitario&theme=radical&hide_border=true" width="48%">
+</p>
+
+> _Note: The cards above dynamic-load metrics directly from university project archives._
 
 ---
 
@@ -26,24 +42,30 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-#### Frameworks & Ecosystem
+#### Frameworks & Automation
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-
-#### Automation & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## System Metrics
+## 📊 Analytics & Activity
 
 <div align="center">
-
-[![](https://github-readme-stats.vercel.app/api?username=DianaC-A&show_icons=true&theme=radical&hide_border=true&locale=en)](https://github.com/DianaC-A)
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=DianaC-A&theme=radical&hide_border=true)](https://github.com/DianaC-A)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DianaC-A&show_icons=true&theme=radical&hide_border=true&locale=en" width="100%">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaC-A&layout=compact&theme=radical&hide_border=true&locale=en" width="100%">
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+### 🏙️ 3D Contribution Graph
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=DianaC-A&theme=radical" alt="Diana's 3D Contributions" width="100%">
+</p>
