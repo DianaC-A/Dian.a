@@ -22,15 +22,19 @@
 <div align="center">
   <table border="0">
     <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=mini-api-usuarios&theme=radical&hide_border=true" width="100%"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=dian-portfolio&theme=radical&hide_border=true" width="100%"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=Academic-Task-Manager&theme=radical&hide_border=true" width="100%"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=CoffeeCore&theme=radical&hide_border=true" width="100%"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=room13&theme=radical&hide_border=true" width="100%"></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DianaC-A&repo=mini-api-usuarios&theme=radical&hide_border=true" width="50%"></td>
     </tr>
   </table>
 </div>
-
 ---
 
 ## 🛠️ Technical Stack
